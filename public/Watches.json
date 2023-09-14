@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "name": "Apple Watch Series 6",
+      "price": 399.99,
+      "manufacturer": "Apple",
+      "keyFeatures": [
+        "Blood oxygen monitoring",
+        "ECG",
+        "Fitness tracking",
+        "GPS",
+        "Retina display"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy Watch 3",
+      "price": 329.99,
+      "manufacturer": "Samsung",
+      "keyFeatures": [
+        "Heart rate monitoring",
+        "GPS",
+        "Sleep tracking",
+        "Rotating bezel navigation",
+        "Tizen OS"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Garmin Forerunner 945",
+      "price": 549.99,
+      "manufacturer": "Garmin",
+      "keyFeatures": [
+        "Advanced running metrics",
+        "GPS",
+        "Music storage",
+        "VO2 max estimation",
+        "Multisport tracking"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Fitbit Sense",
+      "price": 299.99,
+      "manufacturer": "Fitbit",
+      "keyFeatures": [
+        "Stress tracking",
+        "EDA sensor",
+        "Heart rate monitoring",
+        "Sleep tracking",
+        "Built-in GPS"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Fossil Gen 5 Carlyle",
+      "price": 249.99,
+      "manufacturer": "Fossil",
+      "keyFeatures": [
+        "Wear OS",
+        "Snapdragon 3100 processor",
+        "Heart rate monitoring",
+        "Customizable watch faces"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Huawei Watch GT 2 Pro",
+      "price": 299.99,
+      "manufacturer": "Huawei",
+      "keyFeatures": [
+        "AMOLED display",
+        "GPS",
+        "14-day battery life",
+        "Heart rate monitoring",
+        "Sleep tracking"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Amazfit Bip U Pro",
+      "price": 69.99,
+      "manufacturer": "Amazfit",
+      "keyFeatures": [
+        "SpO2 measurement",
+        "Heart rate monitoring",
+        "Built-in GPS",
+        "9-day battery life",
+        "PAI (Personal Activity Intelligence)"
+      ]
+    }
+  ]
+  
